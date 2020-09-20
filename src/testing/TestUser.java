@@ -1,6 +1,5 @@
 package testing;
 
-/*Uncomment the below code test your application
 import static org.junit.Assert.*;
 
 import java.time.LocalDateTime;
@@ -31,4 +30,4 @@ public class TestUser {
 		}
 	}
 }
-*/
+
